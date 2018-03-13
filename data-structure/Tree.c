@@ -9,7 +9,6 @@ struct Node{
     int val;
     Node left;
     Node right;
-    int tag;
 };
 
 Node insert(Tree t,int x){
